@@ -1,5 +1,5 @@
 # Double Pendulum ⚓ 
-![](https://img.shields.io/badge/Muriepmi-_Made_By_Jh1sc-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Pendulumulum-_Made_By_Jh1sc-green?style=for-the-badge)
 
 
 ## Description 🚮
